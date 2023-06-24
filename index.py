@@ -30,6 +30,7 @@ if __name__ == '__main__':
         time_wait = 10
         print(f"Waiting {time_wait} minutes...")
         time.sleep(time_wait * 60)
-        
 
 
+# The .txt files in the posts folder consist of the results acquired 
+# by mentioning django as the unfamiliar skill while running the program at a particular time

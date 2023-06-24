@@ -1,3 +1,10 @@
+# Python program to perform web scraping using Beautiful Soup library.
+# 1. Scraping a jobs website
+# 2. Pulling info of the jobs that were posted a few days ago 
+# 3. Filtering the jobs as per the skills possessed
+# 4. Setting a delay of 10 minutes in subsequent scraping
+# 5. Storing the relevant jobs in separate text files.
+
 from bs4 import BeautifulSoup
 import requests
 import time
